@@ -6,7 +6,7 @@
 
 - ▶️ I regulary post videos on [youtube.com/academiadoredator](https://youtube.com/academiadoredator)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **Content Creation, JavaScript, HTML and CSS**
 
 - 📫 How to reach me **dan_dmp@live.com**
 
