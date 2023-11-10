@@ -2,9 +2,9 @@
 <h3 align="center">A content creator who writes for people and now for machines too </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilo-dmp" alt="danilopereira" /> </p>
 
-- 🔭 I’m currently working as freelancer writer
+- 🔭 I’m currently working as customer care advocate at Shutterstock!
 
-- ▶️ I regulary post videos on [youtube.com/academiadoredator](https://youtube.com/academiadoredator)
+- ▶️ I'm pursuing a Higher diploma for Computer Science at CCT College, Dublin
 
 - 💬 Ask me about **Content Creation, JavaScript, HTML and CSS**
 
