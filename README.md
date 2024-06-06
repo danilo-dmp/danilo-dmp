@@ -6,7 +6,7 @@
 
 - ▶️ I'm pursuing a Higher diploma for Computer Science at CCT College, Dublin
 
-- 💬 Ask me about **Content Creation, JavaScript, HTML and CSS**
+- 💬 Ask me about **Content Creation, Java, Python, JavaScript, HTML and CSS**
 
 - 📫 How to reach me **dan_dmp@live.com**
 
