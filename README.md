@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as customer care advocate at Shutterstock!
 
-- ▶️ I'm pursuing a Higher diploma for Computer Science at CCT College, Dublin
+- ▶️ I have Higher diploma for Computer Science at CCT College, Dublin (Second Class Honours 1)
 
 - 💬 Ask me about **Content Creation, Java, Python, JavaScript, HTML and CSS**
 
